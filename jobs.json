@@ -2413,7 +2413,9 @@
    "sentDate": "2026-11-14",
    "kind": "招聘公告",
    "hasPhysics": true,
-   "urlNote": ""
+   "urlNote": "",
+   "applied": true,
+   "appliedDate": "2026-11-14"
   },
   {
    "title": "东莞市东华高级中学和东华松山湖高级中学2026年招聘教师启事（含物理，面向2026/2027届）",
