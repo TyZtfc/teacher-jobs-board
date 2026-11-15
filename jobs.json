@@ -2925,7 +2925,9 @@
       "kind": "招聘公告",
       "hasPhysics": true,
       "urlNote": "学校官网（https://xnwy.xhedu.sh.cn/cms/ 及栏目页）招聘入口指向官方微信 https://mp.weixin.qq.com/s/jCJbJ8WNnWk8-JrUnm-hDQ ；今日打开该微信为验证页，正文未能阅读。以下为南京信息工程大学就业网2026-10-30发布的学校招聘公告，已打开核对。此校与库中已有的「西南位育附属科技高级中学」不是同一公告。",
-      "officialUrl": "https://mp.weixin.qq.com/s/jCJbJ8WNnWk8-JrUnm-hDQ"
+      "officialUrl": "https://mp.weixin.qq.com/s/jCJbJ8WNnWk8-JrUnm-hDQ",
+      "applied": true,
+      "appliedDate": "2026-11-15"
     },
     {
       "title": "浦东新区公办学校2027年教师招聘（第一批次）报名公告",
